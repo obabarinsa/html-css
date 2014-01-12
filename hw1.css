@@ -4,6 +4,6 @@ h1{padding: 20px;}
 .ptext {color: gray;}
 .box1 {border: solid blue 1px ; padding : 20px 20px 20px 0px;}
 .box2 {border: solid blue 1px;}
-.page {margin: 20px;}
+.page {margin: 20px; font-family: Arial;}
 hr {margin-top: -1em; margin-bottom: 20px; height: 1px; }
 
